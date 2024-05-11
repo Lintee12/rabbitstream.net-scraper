@@ -8,6 +8,7 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 
 ```shell
 $ git clone https://github.com/Lintee12/rabbitstream.net-scraper.git
+$ cd rabbitstream.net-scraper
 $ npm install
 ```
 
