@@ -13,7 +13,7 @@ $ npm install
 
 ## Usage
 
-Run and got to localhost:3000
+Run and go to localhost:3000
 
 working example url: http://localhost:3000/?url=https://rabbitstream.net/v2/embed-4/WUq1kSx6ULrA?_debug=true
 
