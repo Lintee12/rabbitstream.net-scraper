@@ -5,13 +5,13 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+		"start": "node index.js"
 	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.19.2",
-		"puppeteer": "^22.8.0",
+		"puppeteer": "^18.1.0",
 		"puppeteer-extra": "^3.3.6",
 		"puppeteer-extra-plugin-stealth": "^2.11.2"
 	}
